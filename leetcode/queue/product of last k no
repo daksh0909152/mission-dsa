@@ -1,0 +1,35 @@
+import java.util.ArrayList;
+import java.util.List;
+
+class ProductOfNumbers {
+    private List<Long> prefix;
+
+    public ProductOfNumbers() {
+        // Initialize with 1 so we can divide cleanly
+        prefix = new ArrayList<>();
+        prefix.add(1L);
+    }
+
+    public void add(int num) {
+        if (num == 0) {
+            // Reset when zero encountered
+            prefix.clear();
+            prefix.add(1L);
+        } else {
+            long last = prefix.get(prefix.size() - 1);
+            prefix.add(last * num);
+        }
+    }
+
+    public int getProduct(int k) {
+        int n = prefix.size();
+        if (k >= n) {
+            // There're fewer than k non-zero numbers since the last reset,
+            // so last k numbers include a zero
+            return 0;
+        }
+        long total = prefix.get(n - 1);
+        long before = prefix.get(n - k - 1);
+        return (int)(total / before);
+    }
+}
