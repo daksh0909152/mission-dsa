@@ -1,0 +1,59 @@
+class MyCircularQueue {
+    private int[] data;
+    private int front;   // index of front element
+    private int size;    // number of current elements
+    private int capacity; // total capacity
+
+    public MyCircularQueue(int k) {
+        capacity = k;
+        data = new int[capacity];
+        front = 0;
+        size = 0;
+    }
+
+    public boolean enQueue(int value) {
+        if (isFull()) {
+            return false;
+        }
+        // Find the position to insert new element:
+        // It will be at (front + size) % capacity
+        int rearIndex = (front + size) % capacity;
+        data[rearIndex] = value;
+        size++;
+        return true;
+    }
+
+    public boolean deQueue() {
+        if (isEmpty()) {
+            return false;
+        }
+        // Remove the front element by moving front index forward
+        front = (front + 1) % capacity;
+        size--;
+        return true;
+    }
+
+    public int Front() {
+        if (isEmpty()) {
+            return -1;
+        }
+        return data[front];
+    }
+
+    public int Rear() {
+        if (isEmpty()) {
+            return -1;
+        }
+        // rear is at (front + size - 1) modulo capacity
+        int rearIndex = (front + size - 1) % capacity;
+        return data[rearIndex];
+    }
+
+    public boolean isEmpty() {
+        return size == 0;
+    }
+
+    public boolean isFull() {
+        return size == capacity;
+    }
+}
