@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/daksh0909152/mission-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/daksh0909152/mission-dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/daksh0909152/mission-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/daksh0909152/mission-dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/daksh0909152/mission-dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/daksh0909152/mission-dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/daksh0909152/mission-dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/daksh0909152/mission-dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/daksh0909152/mission-dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
