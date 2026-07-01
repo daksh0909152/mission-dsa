@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/daksh0909152/mission-dsa/tree/master/0278-first-bad-version) |
 | [0875-koko-eating-bananas](https://github.com/daksh0909152/mission-dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/daksh0909152/mission-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/daksh0909152/mission-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Interactive
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/daksh0909152/mission-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/daksh0909152/mission-dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/daksh0909152/mission-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/daksh0909152/mission-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/daksh0909152/mission-dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/daksh0909152/mission-dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -75,4 +77,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/daksh0909152/mission-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/daksh0909152/mission-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/daksh0909152/mission-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/daksh0909152/mission-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/daksh0909152/mission-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
