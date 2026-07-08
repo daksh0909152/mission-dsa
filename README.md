@@ -69,17 +69,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/daksh0909152/mission-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/daksh0909152/mission-dsa/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/daksh0909152/mission-dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/daksh0909152/mission-dsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/daksh0909152/mission-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/daksh0909152/mission-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/daksh0909152/mission-dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/daksh0909152/mission-dsa/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/daksh0909152/mission-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/daksh0909152/mission-dsa/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/daksh0909152/mission-dsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/daksh0909152/mission-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/daksh0909152/mission-dsa/tree/master/1288-remove-covered-intervals) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/daksh0909152/mission-dsa/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
