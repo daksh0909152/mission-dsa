@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/daksh0909152/mission-dsa/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/daksh0909152/mission-dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Linked List
 |  |
