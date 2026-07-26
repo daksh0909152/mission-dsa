@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/daksh0909152/mission-dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/daksh0909152/mission-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/daksh0909152/mission-dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/daksh0909152/mission-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/daksh0909152/mission-dsa/tree/master/1288-remove-covered-intervals) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/daksh0909152/mission-dsa/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/daksh0909152/mission-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/daksh0909152/mission-dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/daksh0909152/mission-dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/daksh0909152/mission-dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/daksh0909152/mission-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/daksh0909152/mission-dsa/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/daksh0909152/mission-dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/daksh0909152/mission-dsa/tree/master/3536-maximum-product-of-two-digits) |
