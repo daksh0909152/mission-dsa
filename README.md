@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/daksh0909152/mission-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/daksh0909152/mission-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/daksh0909152/mission-dsa/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/daksh0909152/mission-dsa/tree/master/0278-first-bad-version) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/daksh0909152/mission-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/daksh0909152/mission-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/daksh0909152/mission-dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/daksh0909152/mission-dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/daksh0909152/mission-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/daksh0909152/mission-dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
