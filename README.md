@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/daksh0909152/mission-dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/daksh0909152/mission-dsa/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/daksh0909152/mission-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/daksh0909152/mission-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/daksh0909152/mission-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/daksh0909152/mission-dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/daksh0909152/mission-dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/daksh0909152/mission-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/daksh0909152/mission-dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/daksh0909152/mission-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/daksh0909152/mission-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/daksh0909152/mission-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/daksh0909152/mission-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/daksh0909152/mission-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/daksh0909152/mission-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/daksh0909152/mission-dsa/tree/master/1406-stone-game-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/daksh0909152/mission-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
