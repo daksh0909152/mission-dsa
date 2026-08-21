@@ -1,0 +1,89 @@
+import java.util.*;
+
+class Solution {
+    public long findKthSmallest(int[] coins, int k) {
+        int n = coins.length;
+
+        // Remove duplicate / unnecessary multiples
+        Arrays.sort(coins);
+        List<Integer> list = new ArrayList<>();
+
+        for (int coin : coins) {
+            boolean useful = true;
+            for (int x : list) {
+                if (coin % x == 0) {
+                    useful = false;
+                    break;
+                }
+            }
+            if (useful) list.add(coin);
+        }
+
+        n = list.size();
+        int[] arr = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            arr[i] = list.get(i);
+        }
+
+        long low = 1, high = (long) arr[0] * k;
+
+        while (low < high) {
+            long mid = low + (high - low) / 2;
+
+            if (count(mid, arr) >= k) {
+                high = mid;
+            } else {
+                low = mid + 1;
+            }
+        }
+
+        return low;
+    }
+
+    private long count(long x, int[] coins) {
+        int n = coins.length;
+        long total = 0;
+
+        for (int mask = 1; mask < (1 << n); mask++) {
+            long lcm = 1;
+            int bits = 0;
+            boolean valid = true;
+
+            for (int i = 0; i < n; i++) {
+                if ((mask & (1 << i)) != 0) {
+                    bits++;
+                    lcm = lcm(lcm, coins[i]);
+
+                    if (lcm > x) {
+                        valid = false;
+                        break;
+                    }
+                }
+            }
+
+            if (!valid) continue;
+
+            if (bits % 2 == 1) {
+                total += x / lcm;
+            } else {
+                total -= x / lcm;
+            }
+        }
+
+        return total;
+    }
+
+    private long lcm(long a, long b) {
+        return a / gcd(a, b) * b;
+    }
+
+    private long gcd(long a, long b) {
+        while (b != 0) {
+            long temp = a % b;
+            a = b;
+            b = temp;
+        }
+        return a;
+    }
+}
