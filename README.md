@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/daksh0909152/mission-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/daksh0909152/mission-dsa/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/daksh0909152/mission-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/daksh0909152/mission-dsa/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/daksh0909152/mission-dsa/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/daksh0909152/mission-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/daksh0909152/mission-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/daksh0909152/mission-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/daksh0909152/mission-dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/daksh0909152/mission-dsa/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/daksh0909152/mission-dsa/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/daksh0909152/mission-dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/daksh0909152/mission-dsa/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/daksh0909152/mission-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/daksh0909152/mission-dsa/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/daksh0909152/mission-dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/daksh0909152/mission-dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/daksh0909152/mission-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/daksh0909152/mission-dsa/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/daksh0909152/mission-dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/daksh0909152/mission-dsa/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/daksh0909152/mission-dsa/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/daksh0909152/mission-dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/daksh0909152/mission-dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/daksh0909152/mission-dsa/tree/master/3620-network-recovery-pathways) |
@@ -303,17 +307,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/daksh0909152/mission-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/daksh0909152/mission-dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/daksh0909152/mission-dsa/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/daksh0909152/mission-dsa/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/daksh0909152/mission-dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/daksh0909152/mission-dsa/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/daksh0909152/mission-dsa/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/daksh0909152/mission-dsa/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/daksh0909152/mission-dsa/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/daksh0909152/mission-dsa/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/daksh0909152/mission-dsa/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/daksh0909152/mission-dsa/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
