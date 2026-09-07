@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/daksh0909152/mission-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/daksh0909152/mission-dsa/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/daksh0909152/mission-dsa/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/daksh0909152/mission-dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/daksh0909152/mission-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/daksh0909152/mission-dsa/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/daksh0909152/mission-dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/daksh0909152/mission-dsa/tree/master/0234-palindrome-linked-list) |
 ## Greedy
@@ -376,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/daksh0909152/mission-dsa/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/daksh0909152/mission-dsa/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/daksh0909152/mission-dsa/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/daksh0909152/mission-dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
