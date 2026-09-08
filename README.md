@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/daksh0909152/mission-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/daksh0909152/mission-dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/daksh0909152/mission-dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/daksh0909152/mission-dsa/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/daksh0909152/mission-dsa/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/daksh0909152/mission-dsa/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/daksh0909152/mission-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/daksh0909152/mission-dsa/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/daksh0909152/mission-dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/daksh0909152/mission-dsa/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/daksh0909152/mission-dsa/tree/master/0682-baseball-game) |
 ## Greedy
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/daksh0909152/mission-dsa/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/daksh0909152/mission-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/daksh0909152/mission-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
