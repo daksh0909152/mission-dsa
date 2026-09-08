@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/daksh0909152/mission-dsa/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/daksh0909152/mission-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/daksh0909152/mission-dsa/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/daksh0909152/mission-dsa/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/daksh0909152/mission-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/daksh0909152/mission-dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/daksh0909152/mission-dsa/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/daksh0909152/mission-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/daksh0909152/mission-dsa/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/daksh0909152/mission-dsa/tree/master/0115-distinct-subsequences) |
+| [0844-backspace-string-compare](https://github.com/daksh0909152/mission-dsa/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/daksh0909152/mission-dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/daksh0909152/mission-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/daksh0909152/mission-dsa/tree/master/1927-sum-game) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/daksh0909152/mission-dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/daksh0909152/mission-dsa/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/daksh0909152/mission-dsa/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/daksh0909152/mission-dsa/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/daksh0909152/mission-dsa/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/daksh0909152/mission-dsa/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/daksh0909152/mission-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/daksh0909152/mission-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
