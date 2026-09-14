@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/daksh0909152/mission-dsa/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/daksh0909152/mission-dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/daksh0909152/mission-dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/daksh0909152/mission-dsa/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/daksh0909152/mission-dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/daksh0909152/mission-dsa/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/daksh0909152/mission-dsa/tree/master/1872-stone-game-viii) |
@@ -422,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/daksh0909152/mission-dsa/tree/master/0739-daily-temperatures) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/daksh0909152/mission-dsa/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
