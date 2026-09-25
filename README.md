@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/daksh0909152/mission-dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/daksh0909152/mission-dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/daksh0909152/mission-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [1096-brace-expansion-ii](https://github.com/daksh0909152/mission-dsa/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/daksh0909152/mission-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/daksh0909152/mission-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/daksh0909152/mission-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/daksh0909152/mission-dsa/tree/master/0115-distinct-subsequences) |
 | [0844-backspace-string-compare](https://github.com/daksh0909152/mission-dsa/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/daksh0909152/mission-dsa/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/daksh0909152/mission-dsa/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/daksh0909152/mission-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/daksh0909152/mission-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/daksh0909152/mission-dsa/tree/master/1927-sum-game) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/daksh0909152/mission-dsa/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/daksh0909152/mission-dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/daksh0909152/mission-dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/daksh0909152/mission-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/daksh0909152/mission-dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/daksh0909152/mission-dsa/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/daksh0909152/mission-dsa/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/daksh0909152/mission-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/daksh0909152/mission-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/daksh0909152/mission-dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/daksh0909152/mission-dsa/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/daksh0909152/mission-dsa/tree/master/0844-backspace-string-compare) |
+| [1096-brace-expansion-ii](https://github.com/daksh0909152/mission-dsa/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -460,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/daksh0909152/mission-dsa/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/daksh0909152/mission-dsa/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/daksh0909152/mission-dsa/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
