@@ -16,7 +16,7 @@ class Solution {
             dp.put(x + 1, Math.max(dp.getOrDefault(x + 1, 0), a + 1));
             dp.put(x, Math.max(dp.getOrDefault(x, 0), b + 1));
 
-            ans = Math.max(ans, Math.max(dp.get(x), dp.get(x + 1)));
+            ans= Math.max(ans, Math.max(dp.get(x), dp.get(x + 1)));
         }
 
         return ans;
